@@ -1,0 +1,11 @@
+.bg-primary-custom {
+    background-color: #EA5252;
+}
+.btn-primary {
+    background-color: #EA5252;
+    border: none !important;
+    
+}
+.btn-primary:hover{ 
+    opacity: 0.5;
+}
